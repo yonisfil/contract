@@ -1,0 +1,16 @@
+{
+  "handle": "yonisfil",
+  "periodIndex": 5,
+  "periodStart": 1776776463,
+  "periodEnd": 1776776523,
+  "submissionsFound": 1,
+  "validOkFound": true,
+  "rule": "Only Codeforces problems with an explicit rating are eligible.",
+  "submissionId": 371974472,
+  "acceptedAt": 1776776484,
+  "verdict": "OK",
+  "rating": 800,
+  "contestId": 2167,
+  "problemIndex": "A",
+  "problemName": "Square?"
+}

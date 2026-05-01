@@ -1,0 +1,10 @@
+{
+  "handle": "yonisfil",
+  "periodIndex": 0,
+  "periodStart": 1776777640,
+  "periodEnd": 1776777700,
+  "submissionsFound": 0,
+  "validOkFound": false,
+  "rule": "Only Codeforces problems with an explicit rating are eligible.",
+  "reason": "No submissions in this period"
+}
